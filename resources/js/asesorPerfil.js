@@ -1,4 +1,4 @@
-var urlHost = "http://localhost:9095";
+var urlHost = "http://152.70.128.175:9091";
 var urlUser = "/api/user/";
 var urlUserNew = "/api/user/new";
 var urlUserEdit = "/api/user/update";
